@@ -13,6 +13,7 @@
     "start:dev": "nest start --watch",
     "start:debug": "nest start --debug --watch",
     "start:prod": "node dist/main",
+    "check-types": "tsc --noEmit -p tsconfig.build.json",
     "lint": "biome check . --fix",
     "lint:ci": "biome check .",
     "lint:staged": "biome check . --staged --no-errors-on-unmatched",
