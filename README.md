@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/solufyapp/nestjs-api-template" alt="Repo">
-    <b>NestJS API Template</b>
+    <b>NestJS Template</b>
   </a>
 </p>
 
