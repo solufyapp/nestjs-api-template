@@ -2,10 +2,10 @@
   "name": "template-api",
   "version": "0.0.1",
   "description": "",
-  "author": "",
   "type": "module",
   "private": true,
   "license": "UNLICENSED",
+  "packageManager": "pnpm@9.7.0",
   "scripts": {
     "build": "nest build",
     "format": "biome format --write .",
