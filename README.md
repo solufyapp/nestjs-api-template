@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/solufyapp/nestjs-api-template" alt="Repo">
+  <a href="https://github.com/solufyapp/nestjs-template" alt="Repo">
     <b>NestJS Template</b>
   </a>
 </p>
@@ -44,8 +44,8 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/solufyapp/nestjs-api-template.git
-   cd nestjs-api-template
+   git clone https://github.com/solufyapp/nestjs-template.git
+   cd nestjs-template
    ```
 
 2. **Set up environment variables:**
@@ -95,7 +95,7 @@ pnpm lint:staged
 
 ## Contributing
 
-Feel free to contribute with suggestions or bug reports at the [template reposity](https://github.com/solufyapp/nestjs-api-template).
+Feel free to contribute with suggestions or bug reports at the [template reposity](https://github.com/solufyapp/nestjs-template).
 
 ## Authors
 
