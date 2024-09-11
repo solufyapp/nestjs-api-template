@@ -2,8 +2,10 @@ import { Module } from "@nestjs/common";
 import { AppController } from "./app.controller.js";
 import { AppService } from "./app.service.js";
 
+import * as Clients from "@/clients/index.js";
+
 @Module({
-  imports: [],
+  imports: [...Object.values(Clients)],
   controllers: [AppController],
   providers: [AppService],
 })
