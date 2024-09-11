@@ -1,0 +1,14 @@
+{
+  "jsc": {
+    "parser": {
+      "syntax": "typescript"
+    },
+    "target": "esnext",
+    "baseUrl": "./"
+  },
+  "module": {
+    "type": "es6",
+    "resolveFully": true
+  },
+  "sourceMaps": true
+}
