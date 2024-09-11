@@ -37,5 +37,8 @@ jobs:
       - name: Lint
         run: pnpm lint:ci
 
+      - name: Prisma generate
+        run: pnpm db:generate
+
       - name: Build
         run: pnpm build
