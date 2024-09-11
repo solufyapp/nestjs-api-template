@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="128" alt="Nest Logo" /></a>
 </p>
 
-<p style="font-size: 2rem;" align="center">
+<p align="center">
   <a href="https://github.com/solufyapp/nestjs-api-template" alt="Repo">
     <b>NestJS API Template</b>
   </a>
@@ -33,13 +33,11 @@
 - Premade CI workflow for Github.
 - Using ESM modules.
 
-
 ## Requirements
 
 - [Node.js](https://nodejs.org/) (v18+)
 - [Docker](https://www.docker.com/)
 - [PNPM](https://pnpm.io/)
-
 
 ## Installation
 
@@ -52,13 +50,13 @@
 
 2. **Set up environment variables:**
 
-   Copie o arquivo `.env` para `.env.example`
+   Copy the `.env.example` file to `.env`.
 
    ```bash
    cp .env.example .env
    ```
 
-   Edit `.env` file with your own configuration.
+   Edit the `.env` file with your own configuration.
 
 3. **Install dependencies:**
 
