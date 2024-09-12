@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "packageManager": "pnpm@9.7.0",
   "scripts": {
     "build": "nest build",
